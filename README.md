@@ -9,8 +9,8 @@ El proyecto demuestra los principios del electromagnetismo aplicados al movimien
 ---
 
 ## 🎥 Demo (gif / video)
-
 ![Vista general](assets/Imagesn3.png)
+![Vista general](assets/Capturas.JPG)
 ![Vista general](assets/Captura22.JPG)
 
 [▶ Ver demo en YouTubet](https://youtu.be/FodYhkQ68rg)
