@@ -10,7 +10,8 @@ El proyecto demuestra los principios del electromagnetismo aplicados al movimien
 
 ## 🎥 Demo (gif / video)
 
-![Vista general](assets/tren-electro.png)
+![Vista general](assets/Imagesn3.png)
+![Vista general](assets/Captura22.JPG)
 
 [▶ Ver demo en YouTubet](https://youtu.be/FodYhkQ68rg)
 [![Ver video en YouTube](https://img.youtube.com/vi/FodYhkQ68rg/0.jpg)](https://youtu.be/FodYhkQ68rg)
@@ -41,7 +42,9 @@ Diseñar y explicar una simulación de un tren electromagnético en entorno 3D.
 * Integración de scripts en **C#** para controlar movimiento y fuerzas físicas.  
 * Publicación como **mundo interactivo en VRChat** accesible en tiempo real.  
 
-![Vista componentes](assets/tren-electro-componentes.png)
+![Vista componentes](assets/Capturwsa.JPG)
+![Vista componentes](assets/Capturwsa.JPG
+![Vista componentes](assets/Imagesn2.png)
 
 ---
 
@@ -57,7 +60,7 @@ El proyecto completo (archivos de Blender, Unity y scripts de simulación) se ma
 
 **Estado:**  
 ✅ **DISPONIBLE para interactuar en VRChat**    (https://vrchat.com/home/launch?worldId=wrld_6a24be0a-e243-4079-b9b6-42af19e0ed06)  
-🔒 Código privado  
+![Vista general](assets/World-Simulador-de-Tren-Electrom.file_c55e6443-8a68-48e3-956a-acb9b7e22f4f.1.png)
 
 ---
 
