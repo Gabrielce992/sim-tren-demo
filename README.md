@@ -12,7 +12,7 @@ El proyecto demuestra los principios del electromagnetismo aplicados al movimien
 
 ![Vista general](assets/tren-electro.png)
 
-[▶ Ver demo en VRChat] (https://vrchat.com/home/launch?worldId=wrld_6a24be0a-e243-4079-b9b6-42af19e0ed06)  
+[▶ Ver demo en YouTubet](https://youtu.be/FodYhkQ68rg)
 [![Ver video en YouTube](https://img.youtube.com/vi/FodYhkQ68rg/0.jpg)](https://youtu.be/FodYhkQ68rg)
 
 ---
@@ -56,7 +56,7 @@ Diseñar y explicar una simulación de un tren electromagnético en entorno 3D.
 El proyecto completo (archivos de Blender, Unity y scripts de simulación) se mantiene en un **repositorio privado**.  
 
 **Estado:**  
-✅ **DISPONIBLE para interactuar en VRChat**  
+✅ **DISPONIBLE para interactuar en VRChat**    (https://vrchat.com/home/launch?worldId=wrld_6a24be0a-e243-4079-b9b6-42af19e0ed06)  
 🔒 Código privado  
 
 ---
