@@ -43,7 +43,6 @@ Diseñar y explicar una simulación de un tren electromagnético en entorno 3D.
 * Publicación como **mundo interactivo en VRChat** accesible en tiempo real.  
 
 ![Vista componentes](assets/Capturwsa.JPG)
-![Vista componentes](assets/Capturwsa.JPG
 ![Vista componentes](assets/Imagesn2.png)
 
 ---
